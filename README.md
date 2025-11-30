@@ -1,4 +1,8 @@
-## Hi there 👋
+## Index
+
+### その他
+  スクリプト自体への理解・練習のために作成した雑多なスクリプトは[こちら](https://github.com/inugasuki44/99_My-Script-Collections)
+
 
 <!--
 **inugasuki44/inugasuki44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
